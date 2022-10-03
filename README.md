@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Masa-Ryu)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masa-Ryu)](https://github.com/anuraghazra/github-readme-stats)
+
+![build_chiago](https://user-images.githubusercontent.com/77169205/193584269-9f47a8c1-6a70-4d34-8125-1b59d3179781.gif)
